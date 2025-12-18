@@ -1,6 +1,6 @@
 # Python-IPL-EDA
 Performed end-to-end EDA on IPL “matches” and “deliveries” datasets containing 750+ matches and 179k ball-by-ball records.
-This project presents an end-to-end sales analysis for Awesome Chocolates using an interactive Power BI dashboard. It analyzes total sales and box volumes across time, product categories, geographies, and salespersons to identify key trends and performance drivers. The dashboard highlights top products, top countries, and sales trends, enabling stakeholders to make informed, data-driven business decisions through clear visual insights and dynamic filtering.
+This project analyzes IPL match and ball-by-ball data to uncover insights into team performance, player contributions, toss impact, and scoring trends across seasons. Using Python, Pandas, Seaborn, and Matplotlib, interactive visualizations were created to highlight key patterns in wins, runs, boundaries, and player dominance.
 
 
 Conclusion of the project:
